@@ -20,10 +20,11 @@ August 2016
 
 --- .slide x:0 y:-1500
 
-<q>**Messages**</q>
-<q>If things don't go your way, that usually ends up being a good thing
-Make the effort to learn about yourself</q>
-* There's more to life than just work
+<q>**What we're going to talk about**</q>
+
+* Coming off program
+* Leaving GE and coming back
+* Your <strike>career</strike>life is not a checklist
 
 --- .slide x:1000 y:-1500
 
@@ -33,7 +34,6 @@ Make the effort to learn about yourself</q>
 * Technical Leader, Lifing Analytics
 * Power Services
 * EEDP class of 2009
-* Left GE for a startup
 
 --- #careertitle x:500 y:500 scale:3
 
@@ -45,36 +45,56 @@ Make the effort to learn about yourself</q>
 
 ## Edison Program
 
-* Gas Turbine Hot Gas Path (HGP) Repair [Greenville, SC]
-* Gas Turbine Systems Engineer [Greeville, SC]
-* Bently Nevada Design Engineer [Minden, NV]
-* Bently Nevada Machinery Diagnostics Engineer [Minden, NV]
+* - Gas Turbine Repair
+* - Gas Turbine Conceptual Design
+* - Bently Nevada NPI
+* - Bently Nevada M&D
+* Off program: GT Conceptual Design
 
---- #phase2 x:0 y:1500 scale:1
+--- #phase2 x:0 y:1600 scale:1
 
-End of 2009: <b class="positioning">left GE</b>
+<b>End of 2009: left GE</b>
+
+</br>
+
 <b>2009-2011: Synapse Product Development</b>
 
---- #phase3 x:0 y:2000 scale:1
+Mechanical Engineer and PM
 
-<b>2011-2015: GE Oil & Gas, Bently Nevada</b>
+<img src="images/bttf.png" width="300px"/>
 
---- #phase4 x:0 y:2500 scale:1
+--- #phase3 x:0 y:2200 scale:1
 
-<b>2011-2015: GE Power, Power Services</b>
+<b>2011: back to GE</b>
 
---- #not x:-1700 y:1500 scale:3
+</br>
+
+<b>2011-2015: GE Oil & Gas</b>
+
+**Bently Nevada**
+* Custom Products Engineer
+* Lead Analytics Engineer
+* Bently EEDP Manager
+
+--- #phase4 x:0 y:2700 scale:1
+
+<b>2015-today: GE Power</b>
+
+**Power Services Engineering**
+* Technical Leader, Lifing Analytics
+
+--- #not x:-1500 y:1500 scale:3
 
 But that's not 
 the whole story.
 
 --- #big x:4500 y:2100 rot:180 scale:4
 
-so many things <b>didn't</b> <span class="thoughts">how I expected</span>
+so many things <b>didn't</b> <span class="thoughts"> turn out how I expected</span>
 
 --- #tiny x:3925 y:2325 z:-3000 rot:300 scale:1
 
-and that turned out to actually be a good thing.
+and that turned out to be a good thing.
 
 --- #ing x:3500 y:-850 rot:270 scale:6
 the <b class="positioning">obstacles</b>, <b class="rotating">failures</b> and <b class="scaling">changes</b> all contribute to the person I am today.
@@ -84,44 +104,64 @@ the <b class="positioning">obstacles</b>, <b class="rotating">failures</b> and <
 <b>2007-2009: Edison Program</b>
 
 * Wanted to come off program in Nevada. No available jobs.
+* Frustrated by slow product development cycle.
+* Fall from innocence coming off program.
 
---- #phase2notes x:1000 y:4750 scale:1 rot:180
-
-End of 2009: <b class="positioning">left GE</b>
-
-* Thought a startup would fit me well. The intensity, travel (and weather) was too much for me.
-
---- #phase2anotes x:1000 y:4500 scale:1 rot:180
+--- #phase2notes x:1000 y:4500 scale:1 rot:180
 
 <b>2009-2011: Synapse</b>
 
-* Interviewed for a 'dream job' (didn't get it). 
+* Thought a startup would fit me well. The intensity, travel and weather was too much for me.
+* The autonomy was exhilarating. The responsibility was challenging.
 
---- #phase3notes x:1000 y:4000 scale:1 rot:180
+--- #phase2anotes x:1000 y:4000 scale:1 rot:180
+
+<b>2011: leaving Synapse</b>
+
+* Interviewed for a 'dream job' (didn't get it). 
+* Sought life/work balance.
+
+--- #phase3notes x:1000 y:3500 scale:1 rot:180
 
 <b>2011-2015: GE Oil & Gas, Bently Nevada</b>
 
-* Sought life/work balance.
-* Swung far to the life side of that balance and missed growth at work.
+* Swung far to the life side of that balance.
 * Applied for team lead (didn't get it).
+* Impatience led to Bently wide wiki.
 
---- #phase4notes x:1000 y:3500 scale:1 rot:180
+--- #phase4notes x:1000 y:3000 scale:1 rot:180
 
 <b>2015: Moved from Oil & Gas (NV) to Power (SC)</b>
 
-* Lived next to a ski resort. Moved back east to start a family and grow in other ways.
+* Moved back east to start a family and grow more in my career.
+* Initially proposed a remote work agreement. 
 
---- #imagination x:6700 y:-300 scale:6
+--- #imagination x:6700 y:-300 scale:2
 
-the only **limit** is your <b class="imagination">imagination</b>
+Have I learned anything useful through this?
 
---- #one-more-thing x:6000 y:4000 scale:2
+--- #learnings x:6700 y:150 scale:1
 
-one more thing...
+* Your goals will change
+* Play to your strengths
+* Relationships matter
+* Take risks. That's how you grow
+* It doesn't matter what you've done
+* There is more to life than work
+
+--- #one-more-thing x:6700 y:2000 scale:1 
+
+<b>There is more to life than work</b>
+
+* Self, Family, Friends, Work, Play, etc.
+
+<img src="images/tap.png" width="400px"/>
+
+You're not going to want to turn everything to '11'
 
 --- #rstats x:-1000 y:5000
 
-This deck was built using [Slidify](http://www.slidify.org) and styled with [impress.js](http://github.com/bartaz/impress.js). [View the source](http://github.com/bartaz/impress.js), Luke</q>
+This deck was built using [Slidify](http://www.slidify.org) and styled with [impress.js](http://github.com/bartaz/impress.js). [View the source](https://github.com/raconger/eedp-engage/tree/gh-pages)</q>
 
 
 
