@@ -23,8 +23,8 @@ August 2016
 <q>**What we're going to talk about**</q>
 
 * Coming off program
-* Leaving GE and coming back
-* Your <strike>career</strike>life is not a checklist
+* Leaving GE (and coming back)
+* <strike>Career</strike>Life learnings
 
 --- .slide x:1000 y:-1500
 
@@ -34,6 +34,7 @@ August 2016
 * Technical Leader, Lifing Analytics
 * Power Services
 * EEDP class of 2009
+* Not as good of a bowler as Ralph
 
 --- #careertitle x:500 y:500 scale:3
 
@@ -127,7 +128,7 @@ the <b class="positioning">obstacles</b>, <b class="rotating">failures</b> and <
 
 * Swung far to the life side of that balance.
 * Applied for team lead (didn't get it).
-* Impatience led to Bently wide wiki.
+* Impatience led to wiki development.
 
 --- #phase4notes x:1000 y:3000 scale:1 rot:180
 
@@ -142,22 +143,25 @@ Have I learned anything useful through this?
 
 --- #learnings x:6700 y:150 scale:1
 
-* Your goals will change
-* Play to your strengths
-* Relationships matter
-* Take risks. That's how you grow
 * It doesn't matter what you've done
-* There is more to life than work
+* Real relationships matter
+* You choose your brand
+* Things didn't work out? Good
 
---- #one-more-thing x:6700 y:2000 scale:1 
+--- #more x:6700 y:1500 scale:1 
 
-<b>There is more to life than work</b>
+<q>There is more to life than work</q>
 
-* Self, Family, Friends, Work, Play, etc.
+--- #sum x:2500 y:1500 scale:1
 
-<img src="images/tap.png" width="400px"/>
+<b>Summary</b>
 
-You're not going to want to turn everything to '11'
+* Your career won't go as planned
+* It doesn't matter what you've done
+* Real relationships matter
+* You choose your brand
+* There's more to life than work
+* Things didn't work out? Good
 
 --- #rstats x:-1000 y:5000
 
